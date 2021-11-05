@@ -1,6 +1,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yazicifatihcan)](https://github.com/yazicifatihcan/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yazicifatihcan)](https://github.com/yazicifatihcan/github-readme-stats)
+
 
 
 <!---
