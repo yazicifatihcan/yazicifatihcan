@@ -1,4 +1,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yazicifatihcan)](https://github.com/yazicifatihcan/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yazicifatihcan&show_icons=true&theme=dark)
 
 
 
