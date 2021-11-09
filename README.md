@@ -35,7 +35,7 @@ I'm a 23 years old Electrical-Electronics Engineer from Turkey. I'm currently wo
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yazicifatihcan)](https://github.com/yazicifatihcan/github-readme-stats)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yazicifatihcan&custom_title=This%20Week%20I%20Spent%20My%20Time%20In;&layout=compact)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yazicifatihcan&custom_title=This%20Week%20I%20Spent%20My%20Time%20On;&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yazicifatihcan&show_icons=true&theme=dark)
 
 
