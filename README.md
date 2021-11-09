@@ -33,9 +33,6 @@ I'm a 23 years old Electrical-Electronics Engineer from Turkey. I'm currently wo
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 
-<br>
-<br>
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yazicifatihcan)](https://github.com/yazicifatihcan/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yazicifatihcan&show_icons=true&theme=dark)
