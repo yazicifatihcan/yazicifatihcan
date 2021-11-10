@@ -6,7 +6,7 @@
 
 I'm a 23 years old Electrical-Electronics Engineer from Turkey. I'm currently working in Elhelb Smart Solutions as an Engineer in Antalya,Turkey. I'm using Flutter&Dart for mobile app development since end of 2020.
 <br><br>
-<img align="right" src="http://ata.com.tr/upload/5c82154070114.gif" width="650" height="340" />  
+<img align="right" src="http://ata.com.tr/upload/5c82154070114.gif" width="620" height="340" />  
 <br>
 #### Skills
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
