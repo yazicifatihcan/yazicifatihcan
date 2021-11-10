@@ -39,7 +39,7 @@ I'm a 23 years old Electrical-Electronics Engineer from Turkey. I'm currently wo
 
   <img align="center" img src="https://wakatime.com/share/@yazicifatihcan/1554a5a6-c00f-4ab4-9cfc-d939bad223a6.png" />  
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazicifatihcan" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yazicifatihcan&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yazicifatihcan&show_icons=true&theme=dark" />
 
 
 
