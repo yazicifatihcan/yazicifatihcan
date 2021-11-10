@@ -13,7 +13,7 @@ I'm a 23 years old Electrical-Electronics Engineer from Turkey. I'm currently wo
 - [You can check](https://github.com/yazicifatihcan/responsivedesign) my app that I created for practicing the basics of E-Commerce app. Just do not look so much, UI looks so terrible it might make you blind. <br> <a href="https://github.com/yazicifatihcan/responsivedesign">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yazicifatihcan&repo=responsivedesign" /> </a>  
 
-<
+
                                                                
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
                                                                
@@ -37,11 +37,11 @@ I'm a 23 years old Electrical-Electronics Engineer from Turkey. I'm currently wo
 
 
 
-  
+  <img align="center" img src="https://wakatime.com/share/@yazicifatihcan/1554a5a6-c00f-4ab4-9cfc-d939bad223a6.png" />  
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazicifatihcan" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yazicifatihcan&show_icons=true&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yazicifatihcan&show_icons=true&theme=dark" />
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@yazicifatihcan/1554a5a6-c00f-4ab4-9cfc-d939bad223a6.png" /></a>
+
 
   
 
