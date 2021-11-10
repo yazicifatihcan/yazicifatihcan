@@ -5,9 +5,9 @@
 #### Glad to see you guys here! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=yazicifatihcan.visitor-badge)
 
 I'm a 23 years old Electrical-Electronics Engineer from Turkey. I'm currently working in Elhelb Smart Solutions as an Engineer in Antalya,Turkey. I'm using Flutter&Dart for mobile app development since end of 2020.
-<br><br><br>
-<img align="right" src="http://ata.com.tr/upload/5c82154070114.gif" /> </a>  
-
+<br><br>
+<img align="right" src="http://ata.com.tr/upload/5c82154070114.gif" width="650" height="340" />  
+<br>
 #### Skills
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 <br>
@@ -20,7 +20,7 @@ I'm a 23 years old Electrical-Electronics Engineer from Turkey. I'm currently wo
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-<br><br><br><br><br><br>
+<br><br>
 #### Projects
 - [You can check](https://github.com/yazicifatihcan/shellyControlApp) my app that I created for controlling all features of Shelly RGBW device through cloud. <a href="https://github.com/yazicifatihcan/shellyControlApp">
 - [You can check](https://github.com/yazicifatihcan/responsivedesign) my app that I created for practicing the basics of E-Commerce app. Just do not look so much, UI looks so terrible it might make you blind. <br> <a href="https://github.com/yazicifatihcan/responsivedesign">
@@ -49,10 +49,10 @@ I'm a 23 years old Electrical-Electronics Engineer from Turkey. I'm currently wo
 
 
 
-
-  <img align="center" img src="https://wakatime.com/share/@yazicifatihcan/1554a5a6-c00f-4ab4-9cfc-d939bad223a6.png" />  
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazicifatihcan" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yazicifatihcan&show_icons=true&theme=dark" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazicifatihcan&card_width=230"  />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=yazicifatihcan&show_icons=true&theme=dark" height="282" />
+  <img align="center" img src="https://wakatime.com/share/@yazicifatihcan/1554a5a6-c00f-4ab4-9cfc-d939bad223a6.png" width=125% height=125% />  
+  
 
 
 
