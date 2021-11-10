@@ -4,7 +4,7 @@
 [![alt text][3.1]][3]
 #### Glad to see you guys here! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=yazicifatihcan.visitor-badge)
 
-I'm a 23 years old Electrical-Electronics Engineer from Turkey. I'm currently working in Elhelb Smart<br>Solutions as an Engineer in Antalya,Turkey. I'm using Flutter&Dart for mobile app development since<br> end of 2020.
+I'm a 23 years old Electrical-Electronics Engineer from Turkey. I'm currently working in Elhelb Smart Solutions as an Engineer in Antalya,Turkey. I'm using Flutter&Dart for mobile app development since end of 2020. 
 <br>
 #### Skills
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -19,8 +19,8 @@ I'm a 23 years old Electrical-Electronics Engineer from Turkey. I'm currently wo
 
 
 #### Projects
-- [You can check](https://github.com/yazicifatihcan/shellyControlApp) my app that I created for controlling all features of Shelly RGBW device through cloud. <a href="https://github.com/yazicifatihcan/shellyControlApp">
-- [You can check](https://github.com/yazicifatihcan/responsivedesign) my app that I created for practicing the basics of E-Commerce app. Just do not look<br> so much, UI looks so terrible it might make you blind. <br> <a href="https://github.com/yazicifatihcan/responsivedesign">
+- [You can check](https://github.com/yazicifatihcan/shellyControlApp) my app that I created for controlling all features of Shelly RGBW device through cloud.
+- [You can check](https://github.com/yazicifatihcan/responsivedesign) my app that I created for practicing the basics of E-Commerce app. Just do not look so much, UI looks so terrible it might make you blind. 
  
 
 
