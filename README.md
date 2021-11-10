@@ -4,30 +4,23 @@
 [![alt text][3.1]][3]
 #### Glad to see you guys here! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=yazicifatihcan.visitor-badge)
 
-I'm a 23 years old Electrical-Electronics Engineer from Turkey. I'm currently working in Elhelb Smart Solutions as an Engineer in Antalya,Turkey. I'm using Flutter&Dart for mobile app development since end of 2020.
-<br><br>
-
-<img align="right" src="http://ata.com.tr/upload/5c82154070114.gif" width="620" height="340" />  
-<br><br>
-
+I'm a 23 years old Electrical-Electronics Engineer from Turkey. I'm currently working in Elhelb Smart<br>Solutions as an Engineer in Antalya,Turkey. I'm using Flutter&Dart for mobile app development since<br> end of 2020.
+<br>
 #### Skills
-
-
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-<br>
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-<br>
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-<br>
+![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<br>
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<img align="center" src="http://ata.com.tr/upload/5c82154070114.gif" />  
 
-<br><br><br>
+
+
 #### Projects
 - [You can check](https://github.com/yazicifatihcan/shellyControlApp) my app that I created for controlling all features of Shelly RGBW device through cloud. <a href="https://github.com/yazicifatihcan/shellyControlApp">
-- [You can check](https://github.com/yazicifatihcan/responsivedesign) my app that I created for practicing the basics of E-Commerce app. Just do not look so much, UI looks so terrible it might make you blind. <br> <a href="https://github.com/yazicifatihcan/responsivedesign">
+- [You can check](https://github.com/yazicifatihcan/responsivedesign) my app that I created for practicing the basics of E-Commerce app. Just do not look<br> so much, UI looks so terrible it might make you blind. <br> <a href="https://github.com/yazicifatihcan/responsivedesign">
  
 
 
@@ -54,8 +47,8 @@ I'm a 23 years old Electrical-Electronics Engineer from Turkey. I'm currently wo
 
 
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazicifatihcan&card_width=230"  />
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=yazicifatihcan&show_icons=true&theme=dark" width=70% height=70% />
-  <img align="center" img src="https://wakatime.com/share/@yazicifatihcan/1554a5a6-c00f-4ab4-9cfc-d939bad223a6.png" width=125% height=125% />  
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=yazicifatihcan&show_icons=true&theme=dark" width="50%" height="70%" />
+  <img align="center" img src="https://wakatime.com/share/@yazicifatihcan/1554a5a6-c00f-4ab4-9cfc-d939bad223a6.png" width="75%" height="75%" />  
   
 
 
