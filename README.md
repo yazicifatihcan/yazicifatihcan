@@ -1,4 +1,4 @@
-# Hi there, I'm [Fatih Can Yazıcı][4] <img src="https://www.sonsuzteknoloji.com/wp-content/uploads/2019/02/android-g%C4%B1f.gif" width="45px">
+# Hi there, I'm [Fatih Can Yazıcı]
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
