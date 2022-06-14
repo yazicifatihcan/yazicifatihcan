@@ -1,4 +1,4 @@
-# Hi there, I'm [Fatih Can Yazıcı]
+# Hi there, I'm Fatih Can Yazıcı
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
