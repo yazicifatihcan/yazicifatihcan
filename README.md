@@ -15,12 +15,6 @@ I'm a 23 years old Electrical-Electronics Engineer from Turkey. I'm currently wo
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <img align="center" src="http://ata.com.tr/upload/5c82154070114.gif" />  
-
-
-
-#### Projects
-- [You can check](https://github.com/yazicifatihcan/shellyControlApp) my app that I created for controlling all features of Shelly RGBW device through cloud.
-- [You can check](https://github.com/yazicifatihcan/responsivedesign) my app that I created for practicing the basics of E-Commerce app. Just do not look so much, UI looks so terrible it might make you blind. 
  
 
 
