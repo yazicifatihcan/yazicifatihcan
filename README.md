@@ -4,7 +4,7 @@
 [![alt text][3.1]][3]
 #### Glad to see you guys here! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=yazicifatihcan.visitor-badge)
 
-I'm a 23 years old Electrical-Electronics Engineer from Turkey. I'm currently working in Elhelb Smart Solutions as an Engineer in Antalya,Turkey. I'm using Flutter&Dart for mobile app development since end of 2020. 
+I'm a 23 years old Flutter Developer from Turkey. I'm currently working in Digital Operations Services as an Flutter Developer in Istanbul,Turkey. I'm using Flutter&Dart for mobile app development since end of 2020. 
 <br>
 #### Skills
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
