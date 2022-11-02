@@ -3,6 +3,7 @@
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 #### Glad to see you guys here! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=yazicifatihcan.visitor-badge)
+#### Total mins coded since 8 Nov 2021 [![wakatime](https://wakatime.com/badge/user/160afd96-e022-4aca-892b-fb250129fb3e.svg)](https://wakatime.com/@160afd96-e022-4aca-892b-fb250129fb3e)
 
 I'm a 23 years old Flutter Developer from Turkey. I'm currently working in Digital Operations Services as an Flutter Developer in Istanbul,Turkey. I'm using Flutter&Dart for mobile app development since end of 2020. 
 <br>
