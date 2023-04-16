@@ -1,49 +1,43 @@
-# Hi there, I'm Fatih Can Yazıcı
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-#### Glad to see you guys here! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=yazicifatihcan.visitor-badge)
-#### Total mins coded since 8 Nov 2021 [![wakatime](https://wakatime.com/badge/user/160afd96-e022-4aca-892b-fb250129fb3e.svg)](https://wakatime.com/@160afd96-e022-4aca-892b-fb250129fb3e)
+# About Me
 
-I'm a 23 years old Flutter Developer from Turkey. I'm currently working in Digital Operations Services as an Flutter Developer in Istanbul,Turkey. I'm using Flutter&Dart for mobile app development since end of 2020. 
-<br>
-#### Skills
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+Hi there! I'm a skilled and experienced Flutter developer with a deep understanding of the intricacies of the Flutter framework. I take pride in my attention to detail, my commitment to quality, and my ability to tailor my work to meet the unique needs of each project.
 
-<img align="center" src="http://ata.com.tr/upload/5c82154070114.gif" />  
+## Experience
+
+Over the past three years, including two years in a professional capacity, I have honed my skills in creating visually appealing and highly functional mobile applications that engage and delight users. My expertise in using Flutter allows me to deliver top-notch projects quickly and efficiently, while adhering to industry best practices and producing clean, sustainable code.
+
+## Skills
+
+- Flutter
+- Dart
+- Python
+- iOS Development
+- Android Development
+- Cross-Platform Development
+- UI/UX Design
+- Agile Development
+- Git
+
+## Approach
+
+Whether it's a simple bug fix or a complex application built from scratch, I have the skills and knowledge to deliver exceptional results that exceed expectations. With my strong technical skills and deep understanding of Flutter, I am confident in my ability to deliver excellent results on any project. Whether it's a new application or an existing one that needs improvement, I have the skills and expertise to achieve the goals.
+
+## Contact
+
+If you're interested in working together, feel free to reach out to me at yazicifatihcan@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/fatih-can-yazici-409497172). I look forward to hearing from you!
+
+
+
+
  
 
 
                                                                
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-                                                               
-
-[1.1]: https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn
-[2.1]: https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter
-[3.1]: https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram
-[4.1]: https://img.shields.io/badge/-IoT-0e76a8?style=plastic&logo=iot
-
-
-[1]: https://www.linkedin.com/in/fatih-can-yazici-409497172/
-[2]: https://twitter.com/yazicifath
-[3]: https://www.instagram.com/yzcfath/
-[4]: https://github.com/yazicifatihcan
-[5]: https://github.com/yazicifatihcan/shellyControlApp
-
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 
 
 
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazicifatihcan&card_width=230"  />
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=yazicifatihcan&show_icons=true&theme=dark" width="50%" height="70%" />
-  <img align="center" img src="https://wakatime.com/share/@yazicifatihcan/1554a5a6-c00f-4ab4-9cfc-d939bad223a6.png" width="75%" height="75%" />  
+
   
 
 
